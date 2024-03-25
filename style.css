@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+
+background-color: rgb(13, 162, 162);
+}
+
+.btn{
+   background-color: rgb(124, 119, 113);
+   font-style: italic;
+}
+.page1{
+    display: grid;
+    place-items: center ;
+  
+    
+}
+.page2{
+    background-color: antiquewhite;
+    
+}
+.img{
+    border:;
+}
